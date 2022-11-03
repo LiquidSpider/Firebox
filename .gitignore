@@ -70,3 +70,12 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+/Gun References
+/[Aa]ssets/StylizedSoldiersMilitary
+/[Aa]ssets/RealToon
+/[Aa]ssets/MilkShake
+/[Aa]ssets/Mirror
+/[Aa]ssets/ExampleAssets
+/[Aa]ssets/Urp
+/[Aa]ssets/TextMesh Pro
